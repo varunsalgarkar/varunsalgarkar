@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Definite Reads: Honey and Milk
 - ⚡ Fun fact: Hippos are Vegeterians🤔
 - ❤️ **Open Source Everything**❤️
+### ⚙️ GitHub Analytics
+
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsalgarkar&show_icons=true&locale=en&layout=compact&theme=merko" alt="varsharamesh82" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsalgarkar&show_icons=true&locale=en&theme=merko" alt="varunsalgarkar" /></p><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsalgarkar&&theme=merko" alt="varunsalgarkar" /></p>
